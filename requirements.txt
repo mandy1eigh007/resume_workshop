@@ -2,6 +2,7 @@ streamlit==1.36.0
 pandas==2.2.2
 docxtpl==0.16.7
 python-docx==1.1.2
+lxml==4.9.3
 pypdf==4.3.1
 pdfminer.six==20231228
 requests==2.32.3
