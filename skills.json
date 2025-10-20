@@ -1,0 +1,34 @@
+{
+  "Transferable": [
+    "Problem-solving",
+    "Critical thinking",
+    "Attention to detail",
+    "Time management",
+    "Teamwork & collaboration",
+    "Adaptability & willingness to learn",
+    "Customer service",
+    "Communication (clear, concise)",
+    "Conflict resolution",
+    "Accountability & follow-through"
+  ],
+  "Job-Specific": [
+    "Reading blueprints & specs",
+    "Hand & power tools",
+    "Operating machinery",
+    "Materials handling (wood/concrete/metal)",
+    "Trades math & measurement",
+    "Regulatory compliance",
+    "Safety awareness",
+    "Basic rigging signals",
+    "Lockout/tagout awareness",
+    "PPE use and care"
+  ],
+  "Self-Management": [
+    "Reliability & punctuality",
+    "Production pace awareness",
+    "Physical stamina & dexterity",
+    "Situational awareness",
+    "Housekeeping / 5S habits",
+    "Learning agility"
+  ]
+}

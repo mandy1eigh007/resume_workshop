@@ -1,0 +1,269 @@
+{
+  "Line Cook": [
+    "line cook"
+  ],
+  "Prep Cook": [
+    "prep cook"
+  ],
+  "Server": [
+    "server"
+  ],
+  "Dishwasher": [
+    "dishwasher"
+  ],
+  "Barista": [
+    "barista"
+  ],
+  "Cashier": [
+    "cashier"
+  ],
+  "Retail Associate": [
+    "retail associate"
+  ],
+  "Stocker": [
+    "stocker"
+  ],
+  "Warehouse Associate": [
+    "warehouse associate"
+  ],
+  "Order Selector": [
+    "order selector"
+  ],
+  "Shipping & Receiving": [
+    "shipping & receiving"
+  ],
+  "Material Handler": [
+    "material handler"
+  ],
+  "Forklift Operator (trainee/experience)": [
+    "forklift operator (trainee/experience)"
+  ],
+  "Delivery Driver (Non-CDL)": [
+    "delivery driver (non-cdl)"
+  ],
+  "Mover": [
+    "mover"
+  ],
+  "Janitor": [
+    "janitor"
+  ],
+  "Custodian": [
+    "custodian"
+  ],
+  "Housekeeper": [
+    "housekeeper"
+  ],
+  "Security Guard": [
+    "security guard"
+  ],
+  "Landscaper/Groundskeeper": [
+    "landscaper/groundskeeper"
+  ],
+  "Construction Laborer (general)": [
+    "construction laborer (general)"
+  ],
+  "Demolition Laborer": [
+    "demolition laborer"
+  ],
+  "Traffic Control/Flagger": [
+    "traffic control/flagger"
+  ],
+  "Event Setup Crew/Stagehand": [
+    "event setup crew/stagehand"
+  ],
+  "Maintenance Helper": [
+    "maintenance helper"
+  ],
+  "Painter Helper": [
+    "painter helper"
+  ],
+  "Drywall/Lather Helper": [
+    "drywall/lather helper"
+  ],
+  "Flooring Helper": [
+    "flooring helper"
+  ],
+  "Concrete Laborer": [
+    "concrete laborer"
+  ],
+  "Mason Tender": [
+    "mason tender"
+  ],
+  "Carpenter Helper": [
+    "carpenter helper"
+  ],
+  "Roofer Helper": [
+    "roofer helper"
+  ],
+  "HVAC Helper": [
+    "hvac helper"
+  ],
+  "Electrical Helper": [
+    "electrical helper"
+  ],
+  "Plumbing Helper": [
+    "plumbing helper"
+  ],
+  "Sheet Metal Helper": [
+    "sheet metal helper"
+  ],
+  "Ironworker Helper": [
+    "ironworker helper"
+  ],
+  "Glazier Helper": [
+    "glazier helper"
+  ],
+  "Welder/Fabrication Helper": [
+    "welder/fabrication helper"
+  ],
+  "Grounds/Right-of-Way Helper": [
+    "grounds/right-of-way helper"
+  ],
+  "Warehouse Clerk": [
+    "warehouse clerk"
+  ],
+  "Assembler (Light Manufacturing)": [
+    "assembler (light manufacturing)"
+  ],
+  "Barback": [
+    "barback"
+  ],
+  "Banquet Server": [
+    "banquet server"
+  ],
+  "Movie Theater Crew Member": [
+    "movie theater crew member"
+  ],
+  "Hardware Store Associate": [
+    "hardware store associate"
+  ],
+  "Home Improvement / Building Materials Associate": [
+    "home improvement / building materials associate"
+  ],
+  "Garden Center Associate": [
+    "garden center associate"
+  ],
+  "Produce Clerk": [
+    "produce clerk"
+  ],
+  "Meat / Seafood Clerk": [
+    "meat / seafood clerk"
+  ],
+  "Personal Shopper (Grocery)": [
+    "personal shopper (grocery)"
+  ],
+  "Thrift Store Donations Attendant": [
+    "thrift store donations attendant"
+  ],
+  "Parcel Sorter / Package Handler": [
+    "parcel sorter / package handler"
+  ],
+  "Receiving Clerk": [
+    "receiving clerk"
+  ],
+  "Returns Processor (Warehouse/Retail)": [
+    "returns processor (warehouse/retail)"
+  ],
+  "Document Imaging Technician": [
+    "document imaging technician"
+  ],
+  "Print Shop / Copy Center Associate": [
+    "print shop / copy center associate"
+  ],
+  "Mail Courier / Office Runner": [
+    "mail courier / office runner"
+  ],
+  "Facilities Porter": [
+    "facilities porter"
+  ],
+  "Tool Room Attendant": [
+    "tool room attendant"
+  ],
+  "Parts Counter Associate": [
+    "parts counter associate"
+  ],
+  "Painter Helper (Residential/Commercial)": [
+    "painter helper (residential/commercial)"
+  ],
+  "Roofing Tear-Off Laborer (Entry)": [
+    "roofing tear-off laborer (entry)"
+  ],
+  "Window Cleaning Technician (Ground)": [
+    "window cleaning technician (ground)"
+  ],
+  "Recycling Center Sorter": [
+    "recycling center sorter"
+  ],
+  "Sanitation Crew (Warehouse/Food Plant)": [
+    "sanitation crew (warehouse/food plant)"
+  ],
+  "Temp Agency General Laborer": [
+    "temp agency general laborer"
+  ],
+  "Event Security (Entry)": [
+    "event security (entry)"
+  ],
+  "Lifeguard": [
+    "lifeguard"
+  ],
+  "Recreation Center Attendant": [
+    "recreation center attendant"
+  ],
+  "Childcare Assistant": [
+    "childcare assistant"
+  ],
+  "Car Rental Agent": [
+    "car rental agent"
+  ],
+  "Bell Attendant": [
+    "bell attendant"
+  ],
+  "Warehouse Dock Worker / Loader": [
+    "warehouse dock worker / loader"
+  ],
+  "Driver Helper (Box Truck)": [
+    "driver helper (box truck)"
+  ],
+  "Snow Removal Crew (Seasonal)": [
+    "snow removal crew (seasonal)"
+  ],
+  "Bike Shop Associate": [
+    "bike shop associate"
+  ],
+  "Electronics Assembler (Small Parts)": [
+    "electronics assembler (small parts)"
+  ],
+  "Light Manufacturing Assembler": [
+    "light manufacturing assembler"
+  ],
+  "Quality Control Assistant (Entry)": [
+    "quality control assistant (entry)"
+  ],
+  "Industrial Laundry Worker": [
+    "industrial laundry worker"
+  ],
+  "Dispatcher Assistant": [
+    "dispatcher assistant"
+  ],
+  "AV Rental Tech Assistant": [
+    "av rental tech assistant"
+  ],
+  "Hardware / Paint Store Tint Technician": [
+    "hardware / paint store tint technician"
+  ],
+  "Food Bank Logistics Associate": [
+    "food bank logistics associate"
+  ],
+  "Route Helper (Waste/Recycle)": [
+    "route helper (waste/recycle)"
+  ],
+  "Grocery Bagger": [
+    "grocery bagger"
+  ],
+  "Movie Theater Projection / Booth Assistant (Entry)": [
+    "movie theater projection / booth assistant (entry)"
+  ],
+  "Hardware Rentals Counter Associate": [
+    "hardware rentals counter associate"
+  ]
+}
